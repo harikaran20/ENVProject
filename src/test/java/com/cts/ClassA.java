@@ -7,5 +7,10 @@ public class ClassA {
 	private void win() {
 		System.out.println("WIN WIN WIN");
 	}
+	
+	private void yes() {
+		System.out.println("yes");
+
+	}
 
 }
