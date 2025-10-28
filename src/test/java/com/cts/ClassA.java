@@ -4,5 +4,8 @@ public class ClassA {
 	public static void main(String[] args) {
 		
 	}
+	private void win() {
+		System.out.println("WIN WIN WIN");
+	}
 
 }
